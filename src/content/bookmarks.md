@@ -53,8 +53,8 @@ links:
     title: MangaDex
     src: mangadex.svg
     alt: mangadex-icon
-  - href: https://aniwave.lv/
-    title: AniWave
+  - href: https://aybuzem.aybu.edu.tr/my/
+    title: Aybuzem
     src: aniwave.svg
     alt: aniwave-icon
   - href: https://www.deepl.com/en/translator
