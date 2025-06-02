@@ -57,10 +57,10 @@ links:
     title: Aybuzem
     src: aniwave.svg
     alt: aniwave-icon
-  - href: https://www.deepl.com/en/translator
-    title: DeepL
-    src: deepl.svg
-    alt: deepl-icon
+  - href: https://www.perplexity.ai/
+    title: Perplexity
+    src: perplexity.svg
+    alt: perplexity-icon
   - href: https://chatgpt.com/
     title: ChatGpt
     src: chatgpt.svg
